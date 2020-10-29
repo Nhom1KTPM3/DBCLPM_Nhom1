@@ -11,7 +11,7 @@ namespace WebsiteDayNauAn
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            // Load Khi moi vao
         }
     }
 }
