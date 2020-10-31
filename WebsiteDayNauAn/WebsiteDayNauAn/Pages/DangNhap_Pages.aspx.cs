@@ -16,7 +16,7 @@ namespace WebsiteDayNauAn.Pages
 
         }
 
-        protected void Btn_DangNhap_Click(object sender, EventArgs e)
+   /*     protected void Btn_DangNhap_Click(object sender, EventArgs e)
         {
             SHA256 sha256 = SHA256.Create();
             String Password = txt_Password.Text.Trim();
@@ -24,6 +24,6 @@ namespace WebsiteDayNauAn.Pages
             String encryptPass = BitConverter.ToString(bytes);
             txt_Password.Text = encryptPass;
 
-        }
+        }*/
     }
 }

@@ -88,6 +88,7 @@
     <Content Include="lib\css\bootstrap-reboot.min.css.map" />
     <Content Include="lib\css\bootstrap.css.map" />
     <Content Include="lib\css\bootstrap.min.css.map" />
+    <Content Include="lib\css\StyleDN.css" />
     <Content Include="lib\js\bootstrap.bundle.js.map" />
     <Content Include="lib\js\bootstrap.bundle.min.js.map" />
     <Content Include="lib\js\bootstrap.js.map" />
