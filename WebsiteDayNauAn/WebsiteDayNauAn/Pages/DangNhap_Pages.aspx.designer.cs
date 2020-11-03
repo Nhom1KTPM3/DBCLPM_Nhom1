@@ -33,13 +33,13 @@ namespace WebsiteDayNauAn.Pages
         protected global::System.Web.UI.WebControls.Image Image2;
 
         /// <summary>
-        /// TextBox1 control.
+        /// txt_UserName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox txt_UserName;
 
         /// <summary>
         /// Image1 control.
@@ -51,21 +51,21 @@ namespace WebsiteDayNauAn.Pages
         protected global::System.Web.UI.WebControls.Image Image1;
 
         /// <summary>
-        /// TextBox2 control.
+        /// txt_Password control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox txt_Password;
 
         /// <summary>
-        /// Button1 control.
+        /// Btn_DangNhap control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button Btn_DangNhap;
     }
 }

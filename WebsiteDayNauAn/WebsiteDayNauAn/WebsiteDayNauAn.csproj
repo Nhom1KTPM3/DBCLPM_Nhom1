@@ -93,6 +93,11 @@
     <Content Include="lib\css\bootstrap.css.map" />
     <Content Include="lib\css\bootstrap.min.css.map" />
     <Content Include="lib\css\StyleDN.css" />
+    <Content Include="lib\images\DN\BackGround.jpg" />
+    <Content Include="lib\images\DN\BackGroundCook.jpg" />
+    <Content Include="lib\images\DN\HD-Happy-Birthday-Cake-Wallpapers.jpg" />
+    <Content Include="lib\images\DN\LightViolet.jpg" />
+    <Content Include="lib\images\DN\VioletBack.jpg" />
     <Content Include="lib\js\bootstrap.bundle.js.map" />
     <Content Include="lib\js\bootstrap.bundle.min.js.map" />
     <Content Include="lib\js\bootstrap.js.map" />

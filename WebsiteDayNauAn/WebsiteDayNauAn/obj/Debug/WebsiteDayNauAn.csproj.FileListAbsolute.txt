@@ -288,3 +288,16 @@ D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\VBCSCompiler.exe.
 D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csproj.CopyComplete
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\MySql.Data.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Google.Protobuf.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Zstandard.Net.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\K4os.Compression.LZ4.Streams.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\BouncyCastle.Crypto.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Ubiety.Dns.Core.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Renci.SshNet.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\System.Buffers.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\K4os.Compression.LZ4.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\K4os.Hash.xxHash.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\System.Memory.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\MySql.Data.xml
