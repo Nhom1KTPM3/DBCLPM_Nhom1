@@ -230,74 +230,61 @@ E:\HocTap\Documents\DamBaoChatLuongPhanMem\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteD
 E:\HocTap\Documents\DamBaoChatLuongPhanMem\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csproj.CopyComplete
 E:\HocTap\Documents\DamBaoChatLuongPhanMem\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.dll
 E:\HocTap\Documents\DamBaoChatLuongPhanMem\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.pdb
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csprojAssemblyReference.cache
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csproj.CoreCompileInputs.cache
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.pdb
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\WebsiteDayNauAn.dll.config
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\WebsiteDayNauAn.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\WebsiteDayNauAn.pdb
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csc.exe
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csc.exe.config
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csc.rsp
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csi.exe
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csi.exe.config
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csi.rsp
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.AppContext.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Collections.Immutable.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Console.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Diagnostics.Process.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.Compression.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.FileSystem.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.Pipes.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Reflection.Metadata.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.AccessControl.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Claims.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Principal.Windows.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Threading.Thread.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.ValueTuple.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.XmlDocument.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.XPath.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\vbc.exe
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\vbc.exe.config
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\vbc.rsp
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\VBCSCompiler.exe
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\VBCSCompiler.exe.config
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\HOK\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csproj.CopyComplete
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\MySql.Data.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Google.Protobuf.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Zstandard.Net.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\K4os.Compression.LZ4.Streams.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\BouncyCastle.Crypto.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Ubiety.Dns.Core.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Renci.SshNet.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\System.Buffers.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\K4os.Compression.LZ4.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\K4os.Hash.xxHash.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\System.Memory.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\System.Runtime.CompilerServices.Unsafe.dll
-F:\asp\code\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\MySql.Data.xml
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\WebsiteDayNauAn.dll.config
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\WebsiteDayNauAn.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\WebsiteDayNauAn.pdb
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csc.exe
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csc.exe.config
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csc.rsp
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csi.exe
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csi.exe.config
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\csi.rsp
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.AppContext.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Collections.Immutable.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Console.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Diagnostics.Process.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.Compression.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.FileSystem.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.IO.Pipes.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Reflection.Metadata.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.AccessControl.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Claims.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Threading.Thread.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.ValueTuple.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.XPath.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\vbc.exe
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\vbc.exe.config
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\vbc.rsp
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\VBCSCompiler.exe
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\roslyn\VBCSCompiler.exe.config
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csprojAssemblyReference.cache
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csproj.CoreCompileInputs.cache
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.csproj.CopyComplete
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.dll
+F:\Tài liệu học tập\HK7-Năm4\Đảm Bảo Chất Lượng Phần Mềm\DBCLPM_Nhom1\WebsiteDayNauAn\WebsiteDayNauAn\obj\Debug\WebsiteDayNauAn.pdb
