@@ -481,6 +481,7 @@
     <Content Include="lib\webfonts\fa-brands-400.svg" />
     <Content Include="lib\webfonts\fa-regular-400.svg" />
     <Content Include="lib\webfonts\fa-solid-900.svg" />
+    <Content Include="Pages\BuaSang.aspx" />
     <Content Include="Pages\BuaToi.aspx" />
     <Content Include="Pages\ChiTiet.aspx" />
     <Content Include="Pages\DangNhap_Pages.aspx" />
@@ -489,6 +490,13 @@
   <ItemGroup>
     <Compile Include="connect\DBMysqlutil.cs" />
     <Compile Include="connect\DButil.cs" />
+    <Compile Include="Pages\BuaSang.aspx.cs">
+      <DependentUpon>BuaSang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\BuaSang.aspx.designer.cs">
+      <DependentUpon>BuaSang.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\BuaToi.aspx.cs">
       <DependentUpon>BuaToi.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
