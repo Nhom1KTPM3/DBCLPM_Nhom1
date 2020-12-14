@@ -1,0 +1,166 @@
+
+-- -----------------------------------------------------
+-- Schema NauAn
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema NauAn
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `NauAn` DEFAULT CHARACTER SET utf8 ;
+-- -----------------------------------------------------
+-- Schema daynauan
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema daynauan
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `daynauan` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin ;
+USE `NauAn` ;
+
+-- -----------------------------------------------------
+-- Table `NauAn`.`Login`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `NauAn`.`Login` (
+  `TaiKhoan` NVARCHAR(50) NOT NULL COMMENT 'Co j khac so  vs cai nay,\nko co bang thiet ke ak',
+  `MatKhau` NVARCHAR(256) NOT NULL,
+  PRIMARY KEY (`TaiKhoan`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `NauAn`.`DanhMuc`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `NauAn`.`DanhMuc` (
+  `ID_DanhMuc` NVARCHAR(50) NOT NULL,
+  `TenDanhMuc` NVARCHAR(500) NOT NULL,
+  `MoTaDanhMuc` NVARCHAR(500) NULL,
+  PRIMARY KEY (`ID_DanhMuc`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `NauAn`.`MonAn`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `NauAn`.`MonAn` (
+  `ID_MonAn` NVARCHAR(50) NOT NULL,
+  `TenMonAn` NVARCHAR(500) NOT NULL,
+  `MotaMonAn` NVARCHAR(500) NOT NULL,
+  `PictureMonAn` NVARCHAR(500) NULL,
+  `T_ChuanBi` INT NULL,
+  `T_NauAn` INT NULL,
+  `T_BoSung` INT NULL,
+  `ThanhPhan` MEDIUMTEXT NULL,
+  `CongThuc` MEDIUMTEXT NULL,
+  `LuotXem` INT NULL,
+  `ID_DanhMuc` NVARCHAR(50) NULL,
+  PRIMARY KEY (`ID_MonAn`),
+  INDEX `FK_DanhMuc_idx` (`ID_DanhMuc` ASC) VISIBLE,
+  CONSTRAINT `FK_DanhMuc`
+    FOREIGN KEY (`ID_DanhMuc`)
+    REFERENCES `NauAn`.`DanhMuc` (`ID_DanhMuc`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+ENGINE = InnoDB;
+
+USE `daynauan` ;
+
+-- -----------------------------------------------------
+-- Table `daynauan`.`danhmuc`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `daynauan`.`danhmuc` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `tenDanhMuc` VARCHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `moTa` VARCHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_bin;
+
+
+-- -----------------------------------------------------
+-- Table `daynauan`.`user`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `daynauan`.`user` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `ten` VARCHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `diaChi` VARCHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `ngaySinh` DATE NOT NULL,
+  `gioiTinh` BIT(1) NOT NULL,
+  `userName` VARCHAR(45) NOT NULL,
+  `passWord` VARCHAR(45) NOT NULL,
+  `role` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE INDEX `role_UNIQUE` (`role` ASC) VISIBLE)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_bin;
+
+
+-- -----------------------------------------------------
+-- Table `daynauan`.`monan`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `daynauan`.`monan` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `tenMonAn` VARCHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `moTa` TEXT NOT NULL,
+  `luotXem` INT(11) NULL DEFAULT NULL,
+  `createdBy` INT(11) NOT NULL,
+  `anh` VARCHAR(45) NULL DEFAULT NULL,
+  `danhmuc_id` INT(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `f_user_ma_idx` (`createdBy` ASC) VISIBLE,
+  INDEX `fk_monan_danhmuc1_idx` (`danhmuc_id` ASC) VISIBLE,
+  CONSTRAINT `f_user_ma`
+    FOREIGN KEY (`createdBy`)
+    REFERENCES `daynauan`.`user` (`id`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE,
+  CONSTRAINT `fk_monan_danhmuc1`
+    FOREIGN KEY (`danhmuc_id`)
+    REFERENCES `daynauan`.`danhmuc` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_bin;
+
+
+-- -----------------------------------------------------
+-- Table `daynauan`.`slide`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `daynauan`.`slide` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `ten` VARCHAR(45) CHARACTER SET 'utf8' NOT NULL,
+  `moTa` VARCHAR(45) CHARACTER SET 'utf8' NOT NULL,
+  `anh` VARCHAR(45) NOT NULL,
+  `createdBy` INT(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `f_user_sl_idx` (`createdBy` ASC) VISIBLE,
+  CONSTRAINT `f_user_sl`
+    FOREIGN KEY (`createdBy`)
+    REFERENCES `daynauan`.`user` (`id`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_bin;
+
+
+-- -----------------------------------------------------
+-- Table `daynauan`.`tintuc`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `daynauan`.`tintuc` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `tenTinTuc` VARCHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `noiDung` VARCHAR(45) NOT NULL,
+  `anh` VARCHAR(45) NOT NULL,
+  `luotXem` INT(11) NOT NULL,
+  `createdBy` INT(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `f_user_tt_idx` (`createdBy` ASC) VISIBLE,
+  CONSTRAINT `f_user_tt`
+    FOREIGN KEY (`createdBy`)
+    REFERENCES `daynauan`.`user` (`id`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+
