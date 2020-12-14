@@ -11,6 +11,7 @@ namespace WebsiteDayNauAn.Pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            // vi du file nay bi thay doi
 
         }
     }
