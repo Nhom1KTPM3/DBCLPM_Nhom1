@@ -39,7 +39,7 @@
 			</div><!--close top-->
 
 			<div class="menu">
-				<div class="container-md">
+				<div class="container">
 					<nav class="navbar navbar-expand-lg navbar-light bg-light1">
 						<a style="color:#ffffff !important" class="navbar-brand" href="#"><i class="fas fa-utensils"></i></a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -125,7 +125,7 @@
 		</div><!--close slider-->
 
 		<div class="about">
-			<div class="container-md">
+			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<h2>Giới thiệu<Span class="badge badge-secondary"><i class="fas fa-cookie-bite"></i></Span></h2>
@@ -204,7 +204,7 @@
 		</div><!--close about-->
 
 		<div class="news">
-			<div class="container-md">
+			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<h2>Tin tức mới<Span class="badge badge-secondary"><i class="fas fa-star"></i></Span></h2>
@@ -234,7 +234,7 @@
 		</div><!--close news-->
 		
 		<div class="news">
-			<div class="container-md">
+			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<h2>Danh sách các món ăn<Span class="badge badge-secondary"><i class="fas fa-star"></i></Span></h2>
@@ -247,11 +247,17 @@
 								<div class="hovergallery">                                    
 									<img src="../lib/images/ẩm%20thực/<%=item.PictureMonAn1%>" class="card-img-top" alt="..." style="height:200px" />				
 								</div>
-							</div>
+							</div> 
 							<div class="card-body ">
 							  <h5 class="card-title text-justify"><%= item.TenMonAn1 %></h5>							
-								<p  class="card-text text-justify">
+								<p  class="card-text text-left">
 								<%= item.CongThuc1 %>...
+								<div style="display:flex;align-items:center">
+									<button> <img src="../lib/images/icon/tru.jpg" width="20px" height="20px" /></button>                                 
+									 <input style="width:50px" id="txtSoLuong" type="text" disabled />
+                                    <button><img src="../lib/images/icon/cong.jpg" width="20px" height="20px" /></button>	
+									<button><img src="/lib/images/icon/gioHang.png" width="20px" height="20px" /></button>
+								 </div> 								
 								<h5> <a href="ChiTiet.aspx?param1=<%= item.ID_MonAn1 %>" >Xem thêm</a></h5>
 							  </p>
 							</div>

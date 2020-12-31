@@ -76,7 +76,7 @@ namespace WebsiteDayNauAn.Pages
                 }
 
 
-                MonAn t = new MonAn((ad.countFood() + 5).ToString(), tenMon, moTa, file_name, T_ChuanBi, T_NauAn, T_BoSung, ThanhPhan, CongThuc, 0, id_danhmuc);
+                MonAn t = new MonAn( tenMon, moTa, file_name, T_ChuanBi, T_NauAn, T_BoSung, ThanhPhan, CongThuc, 0, id_danhmuc);
                 ad.AddFood(t);
                 Response.Write("<script>alert('Thêm thành công!')</script>");
                 Response.Redirect("QuanLy.aspx");
@@ -130,6 +130,7 @@ namespace WebsiteDayNauAn.Pages
                 int luotxem = int.Parse(Session["luotxem"].ToString());
                 MonAn t = new MonAn(id, tenMon, moTa, file_name, T_ChuanBi, T_NauAn, T_BoSung, ThanhPhan, CongThuc, luotxem, id_danhmuc);
                 ad.EditFood(t);
+                Session.Abandon();
 
                 Response.Redirect("QuanLy.aspx");
             }catch(Exception ex)

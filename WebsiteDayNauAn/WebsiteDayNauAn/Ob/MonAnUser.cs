@@ -5,22 +5,25 @@ using System.Web;
 
 namespace WebsiteDayNauAn.Ob
 {
-    public class MonAn
+    public class MonAnUser
     {
 
-            private String ID_MonAn;
-            private String TenMonAn;
-            private String MotaMonAn;
-            private String PictureMonAn;
-            private int T_ChuanBi;
-             private int T_NauAn;
-            private int T_BoSung;
-            private String ThanhPhan;
-            private String CongThuc;
-            private int LuotXem;
-            private String ID_DanhMuc;
 
-        public MonAn(string iD_MonAn, string tenMonAn, string motaMonAn, string pictureMonAn, int chuanBi, int nauAn, int boSung, string thanhPhan, string congThuc, int luotXem, string iD_DanhMuc)
+
+        private String ID_MonAn;
+        private String TenMonAn;
+        private String MotaMonAn;
+        private String PictureMonAn;
+        private int T_ChuanBi;
+        private int T_NauAn;
+        private int T_BoSung;
+        private String ThanhPhan;
+        private String CongThuc;
+        private int LuotXem;
+        private String ID_DanhMuc;
+        private int id_user;
+
+        public MonAnUser(string iD_MonAn, string tenMonAn, string motaMonAn, string pictureMonAn, int chuanBi, int nauAn, int boSung, string thanhPhan, string congThuc, int luotXem, string iD_DanhMuc, int id_user)
         {
             ID_MonAn = iD_MonAn;
             TenMonAn = tenMonAn;
@@ -33,10 +36,11 @@ namespace WebsiteDayNauAn.Ob
             CongThuc = congThuc;
             LuotXem = luotXem;
             ID_DanhMuc = iD_DanhMuc;
+            this.id_user = id_user;
         }
 
-        public MonAn( string tenMonAn, string motaMonAn, string pictureMonAn, int chuanBi, int nauAn, int boSung, string thanhPhan, string congThuc, int luotXem, string iD_DanhMuc)
-        {
+        public MonAnUser(string tenMonAn, string motaMonAn, string pictureMonAn, int chuanBi, int nauAn, int boSung, string thanhPhan, string congThuc, int luotXem, string iD_DanhMuc, int id_user)
+        {      
             TenMonAn = tenMonAn;
             MotaMonAn = motaMonAn;
             PictureMonAn = pictureMonAn;
@@ -47,6 +51,7 @@ namespace WebsiteDayNauAn.Ob
             CongThuc = congThuc;
             LuotXem = luotXem;
             ID_DanhMuc = iD_DanhMuc;
+            this.id_user = id_user;
         }
 
         public string ID_MonAn1 { get => ID_MonAn; set => ID_MonAn = value; }
@@ -60,5 +65,6 @@ namespace WebsiteDayNauAn.Ob
         public string CongThuc1 { get => CongThuc; set => CongThuc = value; }
         public int LuotXem1 { get => LuotXem; set => LuotXem = value; }
         public string ID_DanhMuc1 { get => ID_DanhMuc; set => ID_DanhMuc = value; }
+        public int Id_user { get => id_user; set => id_user = value; }
     }
 }

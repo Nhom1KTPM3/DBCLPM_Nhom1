@@ -11,9 +11,9 @@ namespace WebsiteDayNauAn.connect
         public static MySqlConnection GetDBConnection()
         {
             string host = "127.0.0.1";
-            int port = 3309;
+            int port = 3306;
             string database = "nauan";
-            string username = "admin1";
+            string username = "root";
             string password = "anhtu123";
 
             return DBMysqlutil.GetDBConnection(host, port, database, username, password);

@@ -15,9 +15,8 @@ namespace WebsiteDayNauAn.Controller
         public void AddFood(MonAn item)
         {
             conn.Open();
-            String sql = "INSERT INTO monan  (ID_MonAn,TenMonAn,MoTaMonAn,PictureMonAn,T_ChuanBi,T_NauAn,T_BoSung,ThanhPhan,CongThuc,LuotXem,ID_DanhMuc) VALUES (@ID_MonAn,@TenMonAn,@MoTaMonAn,@PictureMonAn,@T_ChuanBi,@T_NauAn,@T_BoSung,@ThanhPhan,@CongThuc,@LuotXem,@ID_DanhMuc)";
+            String sql = "INSERT INTO monan  (TenMonAn,MoTaMonAn,PictureMonAn,T_ChuanBi,T_NauAn,T_BoSung,ThanhPhan,CongThuc,LuotXem,ID_DanhMuc) VALUES (@TenMonAn,@MoTaMonAn,@PictureMonAn,@T_ChuanBi,@T_NauAn,@T_BoSung,@ThanhPhan,@CongThuc,@LuotXem,@ID_DanhMuc)";
             MySqlCommand cmd = new MySqlCommand(sql, conn);
-            cmd.Parameters.AddWithValue("@ID_MonAn", item.ID_MonAn1);
             cmd.Parameters.AddWithValue("@TenMonAn", item.TenMonAn1);
             cmd.Parameters.AddWithValue("@MoTaMonAn", item.MotaMonAn1);
             cmd.Parameters.AddWithValue("@PictureMonAn", item.PictureMonAn1);
@@ -265,5 +264,10 @@ namespace WebsiteDayNauAn.Controller
 
             return dt;
         }
+
+
+
+
+
     }
 }

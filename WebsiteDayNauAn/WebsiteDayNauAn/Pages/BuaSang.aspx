@@ -143,6 +143,10 @@
 							  <h5 class="card-title text-justify"><%= item.TenMonAn1 %></h5>
 							  <p class="card-text text-justify">
 								<%= item.CongThuc1 %>...
+								 <div>
+									 <input id="txtSoLuong" type="text" />
+								  <img src="../lib/images/icon/gioHang.png" width="20px" height="20px" />
+								 </div> 
 								<h5> <a href="ChiTiet.aspx?param1=<%= item.ID_MonAn1 %>" >Xem thêm</a></h5>
 							  </p>
 							</div>
